@@ -8,3 +8,6 @@ Creating a new branch is quick and simple.
 dev changes
 dev changes 2
 dev
+
+
+dev stash
